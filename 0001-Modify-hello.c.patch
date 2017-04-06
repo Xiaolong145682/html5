@@ -1,0 +1,26 @@
+From 912ef55ee1efe474752a4fbad7d8aa73e859c8c0 Mon Sep 17 00:00:00 2001
+From: Xiaolong Lin <xiaolong145682@outlook.com>
+Date: Thu, 6 Apr 2017 20:56:19 +0800
+Subject: [PATCH] Modify hello.c
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Add printf
+
+	修改：     hello.c
+
+diff --git a/hello.c b/hello.c
+index 5f6c3fe..701e80f 100644
+--- a/hello.c
++++ b/hello.c
+@@ -3,5 +3,6 @@ int main(void){
+ 	printf("hello world!\n");
+ 	
+ 	printf("hello xiongan!\n");
++	printf("hello xiongan!\n");
+ 	return 0;
+ }
+-- 
+2.7.4
+
