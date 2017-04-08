@@ -1,0 +1,8 @@
+1. <link rel=stylesheet type=text/css media=screen href=xker_com.css /
+screen (缺省值)，提交到计算机屏幕；
+print， 输出到打印机；
+projection，提交到投影机；
+aural，扬声器；
+braille，提交到凸字触觉感知设备；
+tty，电传打字机 (使用固定的字体)；
+all，所有输出设备
